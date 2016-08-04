@@ -1,0 +1,41 @@
+_repo: Vikram-and-the-Vampire--Classic-Hindu-Tales-of-Adventure-Magic-and-Romance_2400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Sir Richard Francis
+    - Burton, R. F. (Richard F.), Sir
+    - Baker, Frank
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+  editor:
+    agent_name: Burton, Isabel, Lady
+    aliases:
+    - Burton, Lady Isabel
+    - Burton, Isabel Arundell, Lady
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '899'
+    url: http://www.gutenberg.org/2009/agents/899
+description: 'Uniform Title: Vetalapañcavimsati. Hindi version (Baitala-pacisi). English'
+gutenberg_bookshelf: India
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- India'
+- !lcsh 'Vampires -- India -- Folklore'
+- !lcsh 'Hindus -- Folklore'
+- !lcc 'GR'
+- GITenberg
+title: 'Vikram and the Vampire: Classic Hindu Tales of Adventure, Magic, and Romance'
+url: http://www.gutenberg.org/ebooks/2400
