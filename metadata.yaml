@@ -1,5 +1,8 @@
 _repo: Vikram-and-the-Vampire--Classic-Hindu-Tales-of-Adventure-Magic-and-Romance_2400
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burton, Richard Francis, Sir
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '899'
     url: http://www.gutenberg.org/2009/agents/899
 description: 'Uniform Title: Vetalapañcavimsati. Hindi version (Baitala-pacisi). English'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2400#Vikram-and-the-Vampire--Classic-Hindu-Tales-of-Adventure-Magic-and-Romance
 gutenberg_bookshelf: India
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
